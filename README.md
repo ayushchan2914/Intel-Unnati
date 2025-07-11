@@ -1,2 +1,0 @@
-# Intel-Unnati
-internship project
